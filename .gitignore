@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+synthetic_demo_new/
+new_result.json
+one_item_result.json
