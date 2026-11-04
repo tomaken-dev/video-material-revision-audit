@@ -1,0 +1,17 @@
+name: material-audit-tests
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  unittest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Inspect Python version
+        run: python --version
+      - name: Run standard-library tests
+        run: python -m unittest -v
