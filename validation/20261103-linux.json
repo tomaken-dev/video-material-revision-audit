@@ -1,0 +1,110 @@
+{
+  "checked_at_utc": "2026-11-03T00:40:04.359466+00:00",
+  "environment": {
+    "os": "linux",
+    "python": "3.12.14"
+  },
+  "suite": {
+    "command": "python3 -m unittest -v",
+    "tests": 47,
+    "passed": 47,
+    "failed": 0,
+    "skipped": 0,
+    "exit": 0,
+    "seconds_reported_by_unittest": 1.29,
+    "source": "current implementation source root; recorded execution immediately before these CLI cases"
+  },
+  "cli_cases": [
+    {
+      "case": "README synthetic generation and audit",
+      "expected_status": "PASS",
+      "actual_status": "PASS",
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "input_files_unchanged": 123,
+      "summary": {
+        "audio_count": 59,
+        "audio_unchanged": 57,
+        "caption_pages": 114,
+        "caption_text_unchanged": 114,
+        "permitted_total_delta_samples": 222
+      },
+      "violations": [],
+      "unknowns": []
+    },
+    {
+      "case": "unapproved PCM byte change with correct declared hash",
+      "expected_status": "FAIL",
+      "actual_status": "FAIL",
+      "expected_exit": 1,
+      "actual_exit": 1,
+      "input_files_unchanged": 123,
+      "summary": {
+        "audio_count": 59,
+        "audio_unchanged": 56,
+        "caption_pages": 114,
+        "caption_text_unchanged": 114,
+        "permitted_total_delta_samples": 222
+      },
+      "violations": [
+        "U003: unapproved audio change"
+      ],
+      "unknowns": []
+    },
+    {
+      "case": "missing referenced WAV",
+      "expected_status": "INCONCLUSIVE",
+      "actual_status": "INCONCLUSIVE",
+      "expected_exit": 2,
+      "actual_exit": 2,
+      "input_files_unchanged": 122,
+      "summary": null,
+      "violations": [],
+      "unknowns": [
+        "missing material or escaping symlink"
+      ]
+    },
+    {
+      "case": "existing output collision",
+      "expected_status": "INCONCLUSIVE",
+      "actual_status": "INCONCLUSIVE",
+      "expected_exit": 2,
+      "actual_exit": 2,
+      "input_files_unchanged": 123,
+      "summary": {
+        "audio_count": 59,
+        "audio_unchanged": 57,
+        "caption_pages": 114,
+        "caption_text_unchanged": 114,
+        "permitted_total_delta_samples": 222
+      },
+      "violations": [],
+      "unknowns": [
+        "Output not saved; existing files are never overwritten."
+      ]
+    },
+    {
+      "case": "documented one-item JSON verbatim",
+      "expected_status": "PASS",
+      "actual_status": "PASS",
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "input_files_unchanged": 7,
+      "summary": {
+        "audio_count": 1,
+        "audio_unchanged": 1,
+        "caption_pages": 1,
+        "caption_text_unchanged": 1,
+        "permitted_total_delta_samples": 0
+      }
+    }
+  ],
+  "source_sha256": {
+    "audit.py": "0bb3425c366f49209d72e29ece74206bf8709ae4cf02fef52ca753041e474b51",
+    "fixtures.py": "1030d1507538405c96eba353c64aa06ceb96f79eee6a45d0665a86d5c3910664",
+    "test_audit.py": "a5f819545f8d2436f73b0e723246d019170c248d981ed23bc4f2bb37a9ad4c8f",
+    "test_review.py": "ef1f39bc5ed867db47000938b68fec2f86f933c18c891d30f8c041d754ce253d"
+  },
+  "remote_ci": "not executed",
+  "windows": "not rerun in this Linux environment"
+}

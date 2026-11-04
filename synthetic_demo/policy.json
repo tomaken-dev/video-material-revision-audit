@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "allow_audio_content_ids": [
+    "U034",
+    "U046"
+  ],
+  "allow_audio_duration_ids": [
+    "U034",
+    "U046"
+  ],
+  "allow_caption_retime_ids": [
+    "U034",
+    "U046"
+  ],
+  "audio_equality": "bytes"
+}
