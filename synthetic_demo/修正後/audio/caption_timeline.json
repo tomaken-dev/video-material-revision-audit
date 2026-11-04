@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 1,
+    "page": 1,
+    "text": "合成の発話1・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.05,
+    "timeline_start_seconds": 0.0,
+    "timeline_end_seconds": 0.05
+  },
+  {
+    "id": 1,
+    "page": 2,
+    "text": "合成の発話1・字幕2",
+    "start_seconds": 0.05,
+    "end_seconds": 0.1,
+    "timeline_start_seconds": 0.05,
+    "timeline_end_seconds": 0.1
+  },
+  {
+    "id": 2,
+    "page": 1,
+    "text": "合成の発話2・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.05,
+    "timeline_start_seconds": 0.1,
+    "timeline_end_seconds": 0.15
+  },
+  {
+    "id": 2,
+    "page": 2,
+    "text": "合成の発話2・字幕2",
+    "start_seconds": 0.05,
+    "end_seconds": 0.10004166666666667,
+    "timeline_start_seconds": 0.15,
+    "timeline_end_seconds": 0.20004166666666667
+  },
+  {
+    "id": 3,
+    "page": 1,
+    "text": "合成の発話3・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050041666666666665,
+    "timeline_start_seconds": 0.20004166666666667,
+    "timeline_end_seconds": 0.2500833333333333
+  },
+  {
+    "id": 3,
+    "page": 2,
+    "text": "合成の発話3・字幕2",
+    "start_seconds": 0.050041666666666665,
+    "end_seconds": 0.10008333333333333,
+    "timeline_start_seconds": 0.2500833333333333,
+    "timeline_end_seconds": 0.300125
+  },
+  {
+    "id": 4,
+    "page": 1,
+    "text": "合成の発話4・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050041666666666665,
+    "timeline_start_seconds": 0.300125,
+    "timeline_end_seconds": 0.3501666666666667
+  },
+  {
+    "id": 4,
+    "page": 2,
+    "text": "合成の発話4・字幕2",
+    "start_seconds": 0.050041666666666665,
+    "end_seconds": 0.100125,
+    "timeline_start_seconds": 0.3501666666666667,
+    "timeline_end_seconds": 0.40025
+  },
+  {
+    "id": 5,
+    "page": 1,
+    "text": "合成の発話5・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050083333333333334,
+    "timeline_start_seconds": 0.40025,
+    "timeline_end_seconds": 0.4503333333333333
+  },
+  {
+    "id": 5,
+    "page": 2,
+    "text": "合成の発話5・字幕2",
+    "start_seconds": 0.050083333333333334,
+    "end_seconds": 0.10016666666666667,
+    "timeline_start_seconds": 0.4503333333333333,
+    "timeline_end_seconds": 0.5004166666666666
+  },
+  {
+    "id": 6,
+    "page": 1,
+    "text": "合成の発話6・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050083333333333334,
+    "timeline_start_seconds": 0.5004166666666666,
+    "timeline_end_seconds": 0.5505
+  },
+  {
+    "id": 6,
+    "page": 2,
+    "text": "合成の発話6・字幕2",
+    "start_seconds": 0.050083333333333334,
+    "end_seconds": 0.10020833333333333,
+    "timeline_start_seconds": 0.5505,
+    "timeline_end_seconds": 0.600625
+  },
+  {
+    "id": 7,
+    "page": 1,
+    "text": "合成の発話7・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050125,
+    "timeline_start_seconds": 0.600625,
+    "timeline_end_seconds": 0.65075
+  },
+  {
+    "id": 7,
+    "page": 2,
+    "text": "合成の発話7・字幕2",
+    "start_seconds": 0.050125,
+    "end_seconds": 0.10025,
+    "timeline_start_seconds": 0.65075,
+    "timeline_end_seconds": 0.700875
+  },
+  {
+    "id": 8,
+    "page": 1,
+    "text": "合成の発話8・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050125,
+    "timeline_start_seconds": 0.700875,
+    "timeline_end_seconds": 0.751
+  },
+  {
+    "id": 8,
+    "page": 2,
+    "text": "合成の発話8・字幕2",
+    "start_seconds": 0.050125,
+    "end_seconds": 0.10029166666666667,
+    "timeline_start_seconds": 0.751,
+    "timeline_end_seconds": 0.8011666666666667
+  },
+  {
+    "id": 9,
+    "page": 1,
+    "text": "合成の発話9・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050166666666666665,
+    "timeline_start_seconds": 0.8011666666666667,
+    "timeline_end_seconds": 0.8513333333333334
+  },
+  {
+    "id": 9,
+    "page": 2,
+    "text": "合成の発話9・字幕2",
+    "start_seconds": 0.050166666666666665,
+    "end_seconds": 0.10033333333333333,
+    "timeline_start_seconds": 0.8513333333333334,
+    "timeline_end_seconds": 0.9015
+  },
+  {
+    "id": 10,
+    "page": 1,
+    "text": "合成の発話10・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050166666666666665,
+    "timeline_start_seconds": 0.9015,
+    "timeline_end_seconds": 0.9516666666666667
+  },
+  {
+    "id": 10,
+    "page": 2,
+    "text": "合成の発話10・字幕2",
+    "start_seconds": 0.050166666666666665,
+    "end_seconds": 0.100375,
+    "timeline_start_seconds": 0.9516666666666667,
+    "timeline_end_seconds": 1.001875
+  },
+  {
+    "id": 11,
+    "page": 1,
+    "text": "合成の発話11・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050208333333333334,
+    "timeline_start_seconds": 1.001875,
+    "timeline_end_seconds": 1.0520833333333333
+  },
+  {
+    "id": 11,
+    "page": 2,
+    "text": "合成の発話11・字幕2",
+    "start_seconds": 0.050208333333333334,
+    "end_seconds": 0.10041666666666667,
+    "timeline_start_seconds": 1.0520833333333333,
+    "timeline_end_seconds": 1.1022916666666667
+  },
+  {
+    "id": 12,
+    "page": 1,
+    "text": "合成の発話12・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050208333333333334,
+    "timeline_start_seconds": 1.1022916666666667,
+    "timeline_end_seconds": 1.1525
+  },
+  {
+    "id": 12,
+    "page": 2,
+    "text": "合成の発話12・字幕2",
+    "start_seconds": 0.050208333333333334,
+    "end_seconds": 0.10045833333333333,
+    "timeline_start_seconds": 1.1525,
+    "timeline_end_seconds": 1.20275
+  },
+  {
+    "id": 13,
+    "page": 1,
+    "text": "合成の発話13・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.05025,
+    "timeline_start_seconds": 1.20275,
+    "timeline_end_seconds": 1.253
+  },
+  {
+    "id": 13,
+    "page": 2,
+    "text": "合成の発話13・字幕2",
+    "start_seconds": 0.05025,
+    "end_seconds": 0.1005,
+    "timeline_start_seconds": 1.253,
+    "timeline_end_seconds": 1.30325
+  },
+  {
+    "id": 14,
+    "page": 1,
+    "text": "合成の発話14・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.05025,
+    "timeline_start_seconds": 1.30325,
+    "timeline_end_seconds": 1.3535
+  },
+  {
+    "id": 14,
+    "page": 2,
+    "text": "合成の発話14・字幕2",
+    "start_seconds": 0.05025,
+    "end_seconds": 0.10054166666666667,
+    "timeline_start_seconds": 1.3535,
+    "timeline_end_seconds": 1.4037916666666668
+  },
+  {
+    "id": 15,
+    "page": 1,
+    "text": "合成の発話15・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050291666666666665,
+    "timeline_start_seconds": 1.4037916666666668,
+    "timeline_end_seconds": 1.4540833333333334
+  },
+  {
+    "id": 15,
+    "page": 2,
+    "text": "合成の発話15・字幕2",
+    "start_seconds": 0.050291666666666665,
+    "end_seconds": 0.10058333333333333,
+    "timeline_start_seconds": 1.4540833333333334,
+    "timeline_end_seconds": 1.504375
+  },
+  {
+    "id": 16,
+    "page": 1,
+    "text": "合成の発話16・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050291666666666665,
+    "timeline_start_seconds": 1.504375,
+    "timeline_end_seconds": 1.5546666666666666
+  },
+  {
+    "id": 16,
+    "page": 2,
+    "text": "合成の発話16・字幕2",
+    "start_seconds": 0.050291666666666665,
+    "end_seconds": 0.100625,
+    "timeline_start_seconds": 1.5546666666666666,
+    "timeline_end_seconds": 1.605
+  },
+  {
+    "id": 17,
+    "page": 1,
+    "text": "合成の発話17・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050333333333333334,
+    "timeline_start_seconds": 1.605,
+    "timeline_end_seconds": 1.6553333333333333
+  },
+  {
+    "id": 17,
+    "page": 2,
+    "text": "合成の発話17・字幕2",
+    "start_seconds": 0.050333333333333334,
+    "end_seconds": 0.10066666666666667,
+    "timeline_start_seconds": 1.6553333333333333,
+    "timeline_end_seconds": 1.7056666666666667
+  },
+  {
+    "id": 18,
+    "page": 1,
+    "text": "合成の発話18・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050333333333333334,
+    "timeline_start_seconds": 1.7056666666666667,
+    "timeline_end_seconds": 1.756
+  },
+  {
+    "id": 18,
+    "page": 2,
+    "text": "合成の発話18・字幕2",
+    "start_seconds": 0.050333333333333334,
+    "end_seconds": 0.10070833333333333,
+    "timeline_start_seconds": 1.756,
+    "timeline_end_seconds": 1.806375
+  },
+  {
+    "id": 19,
+    "page": 1,
+    "text": "合成の発話19・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050375,
+    "timeline_start_seconds": 1.806375,
+    "timeline_end_seconds": 1.85675
+  },
+  {
+    "id": 19,
+    "page": 2,
+    "text": "合成の発話19・字幕2",
+    "start_seconds": 0.050375,
+    "end_seconds": 0.10075,
+    "timeline_start_seconds": 1.85675,
+    "timeline_end_seconds": 1.907125
+  },
+  {
+    "id": 20,
+    "page": 1,
+    "text": "合成の発話20・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050375,
+    "timeline_start_seconds": 1.907125,
+    "timeline_end_seconds": 1.9575
+  },
+  {
+    "id": 20,
+    "page": 2,
+    "text": "合成の発話20・字幕2",
+    "start_seconds": 0.050375,
+    "end_seconds": 0.10079166666666667,
+    "timeline_start_seconds": 1.9575,
+    "timeline_end_seconds": 2.0079166666666666
+  },
+  {
+    "id": 21,
+    "page": 1,
+    "text": "合成の発話21・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050416666666666665,
+    "timeline_start_seconds": 2.0079166666666666,
+    "timeline_end_seconds": 2.058333333333333
+  },
+  {
+    "id": 21,
+    "page": 2,
+    "text": "合成の発話21・字幕2",
+    "start_seconds": 0.050416666666666665,
+    "end_seconds": 0.10083333333333333,
+    "timeline_start_seconds": 2.058333333333333,
+    "timeline_end_seconds": 2.10875
+  },
+  {
+    "id": 22,
+    "page": 1,
+    "text": "合成の発話22・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050416666666666665,
+    "timeline_start_seconds": 2.10875,
+    "timeline_end_seconds": 2.1591666666666667
+  },
+  {
+    "id": 22,
+    "page": 2,
+    "text": "合成の発話22・字幕2",
+    "start_seconds": 0.050416666666666665,
+    "end_seconds": 0.100875,
+    "timeline_start_seconds": 2.1591666666666667,
+    "timeline_end_seconds": 2.209625
+  },
+  {
+    "id": 23,
+    "page": 1,
+    "text": "合成の発話23・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050458333333333334,
+    "timeline_start_seconds": 2.209625,
+    "timeline_end_seconds": 2.260083333333333
+  },
+  {
+    "id": 23,
+    "page": 2,
+    "text": "合成の発話23・字幕2",
+    "start_seconds": 0.050458333333333334,
+    "end_seconds": 0.10091666666666667,
+    "timeline_start_seconds": 2.260083333333333,
+    "timeline_end_seconds": 2.3105416666666665
+  },
+  {
+    "id": 24,
+    "page": 1,
+    "text": "合成の発話24・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050458333333333334,
+    "timeline_start_seconds": 2.3105416666666665,
+    "timeline_end_seconds": 2.361
+  },
+  {
+    "id": 24,
+    "page": 2,
+    "text": "合成の発話24・字幕2",
+    "start_seconds": 0.050458333333333334,
+    "end_seconds": 0.10095833333333333,
+    "timeline_start_seconds": 2.361,
+    "timeline_end_seconds": 2.4115
+  },
+  {
+    "id": 25,
+    "page": 1,
+    "text": "合成の発話25・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.0505,
+    "timeline_start_seconds": 2.4115,
+    "timeline_end_seconds": 2.462
+  },
+  {
+    "id": 25,
+    "page": 2,
+    "text": "合成の発話25・字幕2",
+    "start_seconds": 0.0505,
+    "end_seconds": 0.101,
+    "timeline_start_seconds": 2.462,
+    "timeline_end_seconds": 2.5125
+  },
+  {
+    "id": 26,
+    "page": 1,
+    "text": "合成の発話26・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.0505,
+    "timeline_start_seconds": 2.5125,
+    "timeline_end_seconds": 2.563
+  },
+  {
+    "id": 26,
+    "page": 2,
+    "text": "合成の発話26・字幕2",
+    "start_seconds": 0.0505,
+    "end_seconds": 0.10104166666666667,
+    "timeline_start_seconds": 2.563,
+    "timeline_end_seconds": 2.613541666666667
+  },
+  {
+    "id": 27,
+    "page": 1,
+    "text": "合成の発話27・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050541666666666665,
+    "timeline_start_seconds": 2.613541666666667,
+    "timeline_end_seconds": 2.664083333333333
+  },
+  {
+    "id": 27,
+    "page": 2,
+    "text": "合成の発話27・字幕2",
+    "start_seconds": 0.050541666666666665,
+    "end_seconds": 0.10108333333333333,
+    "timeline_start_seconds": 2.664083333333333,
+    "timeline_end_seconds": 2.714625
+  },
+  {
+    "id": 28,
+    "page": 1,
+    "text": "合成の発話28・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050541666666666665,
+    "timeline_start_seconds": 2.714625,
+    "timeline_end_seconds": 2.7651666666666666
+  },
+  {
+    "id": 28,
+    "page": 2,
+    "text": "合成の発話28・字幕2",
+    "start_seconds": 0.050541666666666665,
+    "end_seconds": 0.101125,
+    "timeline_start_seconds": 2.7651666666666666,
+    "timeline_end_seconds": 2.81575
+  },
+  {
+    "id": 29,
+    "page": 1,
+    "text": "合成の発話29・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050583333333333334,
+    "timeline_start_seconds": 2.81575,
+    "timeline_end_seconds": 2.8663333333333334
+  },
+  {
+    "id": 29,
+    "page": 2,
+    "text": "合成の発話29・字幕2",
+    "start_seconds": 0.050583333333333334,
+    "end_seconds": 0.10116666666666667,
+    "timeline_start_seconds": 2.8663333333333334,
+    "timeline_end_seconds": 2.916916666666667
+  },
+  {
+    "id": 30,
+    "page": 1,
+    "text": "合成の発話30・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050583333333333334,
+    "timeline_start_seconds": 2.916916666666667,
+    "timeline_end_seconds": 2.9675
+  },
+  {
+    "id": 30,
+    "page": 2,
+    "text": "合成の発話30・字幕2",
+    "start_seconds": 0.050583333333333334,
+    "end_seconds": 0.10120833333333333,
+    "timeline_start_seconds": 2.9675,
+    "timeline_end_seconds": 3.018125
+  },
+  {
+    "id": 31,
+    "page": 1,
+    "text": "合成の発話31・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050625,
+    "timeline_start_seconds": 3.018125,
+    "timeline_end_seconds": 3.06875
+  },
+  {
+    "id": 31,
+    "page": 2,
+    "text": "合成の発話31・字幕2",
+    "start_seconds": 0.050625,
+    "end_seconds": 0.10125,
+    "timeline_start_seconds": 3.06875,
+    "timeline_end_seconds": 3.119375
+  },
+  {
+    "id": 32,
+    "page": 1,
+    "text": "合成の発話32・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050625,
+    "timeline_start_seconds": 3.119375,
+    "timeline_end_seconds": 3.17
+  },
+  {
+    "id": 32,
+    "page": 2,
+    "text": "合成の発話32・字幕2",
+    "start_seconds": 0.050625,
+    "end_seconds": 0.10129166666666667,
+    "timeline_start_seconds": 3.17,
+    "timeline_end_seconds": 3.220666666666667
+  },
+  {
+    "id": 33,
+    "page": 1,
+    "text": "合成の発話33・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050666666666666665,
+    "timeline_start_seconds": 3.220666666666667,
+    "timeline_end_seconds": 3.271333333333333
+  },
+  {
+    "id": 33,
+    "page": 2,
+    "text": "合成の発話33・字幕2",
+    "start_seconds": 0.050666666666666665,
+    "end_seconds": 0.10133333333333333,
+    "timeline_start_seconds": 3.271333333333333,
+    "timeline_end_seconds": 3.322
+  },
+  {
+    "id": 34,
+    "page": 1,
+    "text": "合成の発話34・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.053,
+    "timeline_start_seconds": 3.322,
+    "timeline_end_seconds": 3.375
+  },
+  {
+    "id": 34,
+    "page": 2,
+    "text": "合成の発話34・字幕2",
+    "start_seconds": 0.053,
+    "end_seconds": 0.106,
+    "timeline_start_seconds": 3.375,
+    "timeline_end_seconds": 3.428
+  },
+  {
+    "id": 35,
+    "page": 1,
+    "text": "合成の発話35・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050708333333333334,
+    "timeline_start_seconds": 3.428,
+    "timeline_end_seconds": 3.4787083333333335
+  },
+  {
+    "id": 35,
+    "page": 2,
+    "text": "合成の発話35・字幕2",
+    "start_seconds": 0.050708333333333334,
+    "end_seconds": 0.10141666666666667,
+    "timeline_start_seconds": 3.4787083333333335,
+    "timeline_end_seconds": 3.5294166666666666
+  },
+  {
+    "id": 36,
+    "page": 1,
+    "text": "合成の発話36・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050708333333333334,
+    "timeline_start_seconds": 3.5294166666666666,
+    "timeline_end_seconds": 3.580125
+  },
+  {
+    "id": 36,
+    "page": 2,
+    "text": "合成の発話36・字幕2",
+    "start_seconds": 0.050708333333333334,
+    "end_seconds": 0.10145833333333333,
+    "timeline_start_seconds": 3.580125,
+    "timeline_end_seconds": 3.630875
+  },
+  {
+    "id": 37,
+    "page": 1,
+    "text": "合成の発話37・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.05075,
+    "timeline_start_seconds": 3.630875,
+    "timeline_end_seconds": 3.681625
+  },
+  {
+    "id": 37,
+    "page": 2,
+    "text": "合成の発話37・字幕2",
+    "start_seconds": 0.05075,
+    "end_seconds": 0.1015,
+    "timeline_start_seconds": 3.681625,
+    "timeline_end_seconds": 3.732375
+  },
+  {
+    "id": 38,
+    "page": 1,
+    "text": "合成の発話38・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.05075,
+    "timeline_start_seconds": 3.732375,
+    "timeline_end_seconds": 3.783125
+  },
+  {
+    "id": 38,
+    "page": 2,
+    "text": "合成の発話38・字幕2",
+    "start_seconds": 0.05075,
+    "end_seconds": 0.10154166666666667,
+    "timeline_start_seconds": 3.783125,
+    "timeline_end_seconds": 3.8339166666666666
+  },
+  {
+    "id": 39,
+    "page": 1,
+    "text": "合成の発話39・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050791666666666666,
+    "timeline_start_seconds": 3.8339166666666666,
+    "timeline_end_seconds": 3.884708333333333
+  },
+  {
+    "id": 39,
+    "page": 2,
+    "text": "合成の発話39・字幕2",
+    "start_seconds": 0.050791666666666666,
+    "end_seconds": 0.10158333333333333,
+    "timeline_start_seconds": 3.884708333333333,
+    "timeline_end_seconds": 3.9355
+  },
+  {
+    "id": 40,
+    "page": 1,
+    "text": "合成の発話40・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050791666666666666,
+    "timeline_start_seconds": 3.9355,
+    "timeline_end_seconds": 3.986291666666667
+  },
+  {
+    "id": 40,
+    "page": 2,
+    "text": "合成の発話40・字幕2",
+    "start_seconds": 0.050791666666666666,
+    "end_seconds": 0.101625,
+    "timeline_start_seconds": 3.986291666666667,
+    "timeline_end_seconds": 4.037125
+  },
+  {
+    "id": 41,
+    "page": 1,
+    "text": "合成の発話41・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050833333333333335,
+    "timeline_start_seconds": 4.037125,
+    "timeline_end_seconds": 4.087958333333333
+  },
+  {
+    "id": 41,
+    "page": 2,
+    "text": "合成の発話41・字幕2",
+    "start_seconds": 0.050833333333333335,
+    "end_seconds": 0.10166666666666667,
+    "timeline_start_seconds": 4.087958333333333,
+    "timeline_end_seconds": 4.138791666666667
+  },
+  {
+    "id": 42,
+    "page": 1,
+    "text": "合成の発話42・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050833333333333335,
+    "timeline_start_seconds": 4.138791666666667,
+    "timeline_end_seconds": 4.189625
+  },
+  {
+    "id": 42,
+    "page": 2,
+    "text": "合成の発話42・字幕2",
+    "start_seconds": 0.050833333333333335,
+    "end_seconds": 0.10170833333333333,
+    "timeline_start_seconds": 4.189625,
+    "timeline_end_seconds": 4.2405
+  },
+  {
+    "id": 43,
+    "page": 1,
+    "text": "合成の発話43・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050875,
+    "timeline_start_seconds": 4.2405,
+    "timeline_end_seconds": 4.291375
+  },
+  {
+    "id": 43,
+    "page": 2,
+    "text": "合成の発話43・字幕2",
+    "start_seconds": 0.050875,
+    "end_seconds": 0.10175,
+    "timeline_start_seconds": 4.291375,
+    "timeline_end_seconds": 4.34225
+  },
+  {
+    "id": 44,
+    "page": 1,
+    "text": "合成の発話44・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050875,
+    "timeline_start_seconds": 4.34225,
+    "timeline_end_seconds": 4.393125
+  },
+  {
+    "id": 44,
+    "page": 2,
+    "text": "合成の発話44・字幕2",
+    "start_seconds": 0.050875,
+    "end_seconds": 0.10179166666666667,
+    "timeline_start_seconds": 4.393125,
+    "timeline_end_seconds": 4.444041666666666
+  },
+  {
+    "id": 45,
+    "page": 1,
+    "text": "合成の発話45・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050916666666666666,
+    "timeline_start_seconds": 4.444041666666666,
+    "timeline_end_seconds": 4.494958333333333
+  },
+  {
+    "id": 45,
+    "page": 2,
+    "text": "合成の発話45・字幕2",
+    "start_seconds": 0.050916666666666666,
+    "end_seconds": 0.10183333333333333,
+    "timeline_start_seconds": 4.494958333333333,
+    "timeline_end_seconds": 4.545875
+  },
+  {
+    "id": 46,
+    "page": 1,
+    "text": "合成の発話46・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.05325,
+    "timeline_start_seconds": 4.545875,
+    "timeline_end_seconds": 4.599125
+  },
+  {
+    "id": 46,
+    "page": 2,
+    "text": "合成の発話46・字幕2",
+    "start_seconds": 0.05325,
+    "end_seconds": 0.1065,
+    "timeline_start_seconds": 4.599125,
+    "timeline_end_seconds": 4.652375
+  },
+  {
+    "id": 47,
+    "page": 1,
+    "text": "合成の発話47・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050958333333333335,
+    "timeline_start_seconds": 4.652375,
+    "timeline_end_seconds": 4.703333333333333
+  },
+  {
+    "id": 47,
+    "page": 2,
+    "text": "合成の発話47・字幕2",
+    "start_seconds": 0.050958333333333335,
+    "end_seconds": 0.10191666666666667,
+    "timeline_start_seconds": 4.703333333333333,
+    "timeline_end_seconds": 4.754291666666667
+  },
+  {
+    "id": 48,
+    "page": 1,
+    "text": "合成の発話48・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.050958333333333335,
+    "timeline_start_seconds": 4.754291666666667,
+    "timeline_end_seconds": 4.80525
+  },
+  {
+    "id": 48,
+    "page": 2,
+    "text": "合成の発話48・字幕2",
+    "start_seconds": 0.050958333333333335,
+    "end_seconds": 0.10195833333333333,
+    "timeline_start_seconds": 4.80525,
+    "timeline_end_seconds": 4.85625
+  },
+  {
+    "id": 49,
+    "page": 1,
+    "text": "合成の発話49・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.051,
+    "timeline_start_seconds": 4.85625,
+    "timeline_end_seconds": 4.90725
+  },
+  {
+    "id": 49,
+    "page": 2,
+    "text": "合成の発話49・字幕2",
+    "start_seconds": 0.051,
+    "end_seconds": 0.102,
+    "timeline_start_seconds": 4.90725,
+    "timeline_end_seconds": 4.95825
+  },
+  {
+    "id": 50,
+    "page": 1,
+    "text": "合成の発話50・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.051,
+    "timeline_start_seconds": 4.95825,
+    "timeline_end_seconds": 5.00925
+  },
+  {
+    "id": 50,
+    "page": 2,
+    "text": "合成の発話50・字幕2",
+    "start_seconds": 0.051,
+    "end_seconds": 0.10204166666666667,
+    "timeline_start_seconds": 5.00925,
+    "timeline_end_seconds": 5.060291666666667
+  },
+  {
+    "id": 51,
+    "page": 1,
+    "text": "合成の発話51・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.051041666666666666,
+    "timeline_start_seconds": 5.060291666666667,
+    "timeline_end_seconds": 5.1113333333333335
+  },
+  {
+    "id": 51,
+    "page": 2,
+    "text": "合成の発話51・字幕2",
+    "start_seconds": 0.051041666666666666,
+    "end_seconds": 0.10208333333333333,
+    "timeline_start_seconds": 5.1113333333333335,
+    "timeline_end_seconds": 5.162375
+  },
+  {
+    "id": 52,
+    "page": 1,
+    "text": "合成の発話52・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.051041666666666666,
+    "timeline_start_seconds": 5.162375,
+    "timeline_end_seconds": 5.213416666666666
+  },
+  {
+    "id": 52,
+    "page": 2,
+    "text": "合成の発話52・字幕2",
+    "start_seconds": 0.051041666666666666,
+    "end_seconds": 0.102125,
+    "timeline_start_seconds": 5.213416666666666,
+    "timeline_end_seconds": 5.2645
+  },
+  {
+    "id": 53,
+    "page": 1,
+    "text": "合成の発話53・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.051083333333333335,
+    "timeline_start_seconds": 5.2645,
+    "timeline_end_seconds": 5.3155833333333335
+  },
+  {
+    "id": 53,
+    "page": 2,
+    "text": "合成の発話53・字幕2",
+    "start_seconds": 0.051083333333333335,
+    "end_seconds": 0.10216666666666667,
+    "timeline_start_seconds": 5.3155833333333335,
+    "timeline_end_seconds": 5.366666666666666
+  },
+  {
+    "id": 54,
+    "page": 1,
+    "text": "合成の発話54・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.051083333333333335,
+    "timeline_start_seconds": 5.366666666666666,
+    "timeline_end_seconds": 5.41775
+  },
+  {
+    "id": 54,
+    "page": 2,
+    "text": "合成の発話54・字幕2",
+    "start_seconds": 0.051083333333333335,
+    "end_seconds": 0.10220833333333333,
+    "timeline_start_seconds": 5.41775,
+    "timeline_end_seconds": 5.468875
+  },
+  {
+    "id": 55,
+    "page": 1,
+    "text": "合成の発話55・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.051125,
+    "timeline_start_seconds": 5.468875,
+    "timeline_end_seconds": 5.52
+  },
+  {
+    "id": 55,
+    "page": 2,
+    "text": "合成の発話55・字幕2",
+    "start_seconds": 0.051125,
+    "end_seconds": 0.10225,
+    "timeline_start_seconds": 5.52,
+    "timeline_end_seconds": 5.571125
+  },
+  {
+    "id": 56,
+    "page": 1,
+    "text": "合成の発話56・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.10229166666666667,
+    "timeline_start_seconds": 5.571125,
+    "timeline_end_seconds": 5.673416666666666
+  },
+  {
+    "id": 57,
+    "page": 1,
+    "text": "合成の発話57・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.10233333333333333,
+    "timeline_start_seconds": 5.673416666666666,
+    "timeline_end_seconds": 5.77575
+  },
+  {
+    "id": 58,
+    "page": 1,
+    "text": "合成の発話58・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.102375,
+    "timeline_start_seconds": 5.77575,
+    "timeline_end_seconds": 5.878125
+  },
+  {
+    "id": 59,
+    "page": 1,
+    "text": "合成の発話59・字幕1",
+    "start_seconds": 0.0,
+    "end_seconds": 0.10241666666666667,
+    "timeline_start_seconds": 5.878125,
+    "timeline_end_seconds": 5.980541666666666
+  }
+]
